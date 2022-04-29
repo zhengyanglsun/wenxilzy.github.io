@@ -4,19 +4,13 @@
   
     
     <entry>
-      <title>数学公式</title>
-      <link href="/2022/04/29/text/"/>
-      <url>/2022/04/29/text/</url>
+      <title>math</title>
+      <link href="/2022/04/29/math/"/>
+      <url>/2022/04/29/math/</url>
       
-        <content type="html"><![CDATA[<p>$\sqrt x$</p>]]></content>
+        <content type="html"><![CDATA[<p>$n!$</p><p>$\frac{a}{b+c}$</p>]]></content>
       
       
-      
-        <tags>
-            
-            <tag> 测试 </tag>
-            
-        </tags>
       
     </entry>
     
